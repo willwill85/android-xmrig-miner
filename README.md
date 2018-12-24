@@ -29,9 +29,3 @@ xmrig by https://github.com/xmrig
 
 Original project set up:
 https://github.com/upost/MoneroMiner
-
-# Donate:
-Paypal: https://paypal.me/ElijaxApps
-# Bitcoin:
-Address: 37GpugVZNiof2DzWQX5aivHewc4wZLxATL
-
